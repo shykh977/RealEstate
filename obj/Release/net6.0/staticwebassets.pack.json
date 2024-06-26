@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\0eeefa81-f6e0-4011-84e1-6eca2f3aaac8new30.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\0eeefa81-f6e0-4011-84e1-6eca2f3aaac8new30.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\336de093-25fd-40ec-ac2b-f268df254a67new30.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\336de093-25fd-40ec-ac2b-f268df254a67new30.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\87eec8d9-44d0-4da0-8dcc-da63b0e8a9b7new30.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\87eec8d9-44d0-4da0-8dcc-da63b0e8a9b7new30.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\afa62173-5ca7-4c17-a09d-5cd4675f751anew30.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\afa62173-5ca7-4c17-a09d-5cd4675f751anew30.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\download.webm",
+      "PackagePath": "staticwebassets\\UploadedReels\\download.webm"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\movie.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Daman\\Downloads\\PropertyBackend (1)\\PropertyBackend\\wwwroot\\UploadedReels\\nature.mp4",
+      "PackagePath": "staticwebassets\\UploadedReels\\nature.mp4"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PropertyBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.PropertyBackend.props",
+      "PackagePath": "build\\PropertyBackend.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PropertyBackend.props",
+      "PackagePath": "buildMultiTargeting\\PropertyBackend.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.PropertyBackend.props",
+      "PackagePath": "buildTransitive\\PropertyBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
